@@ -1,5 +1,4 @@
 import Pagina from "@/components/Pagina";
-import { IconChevronDown, IconChevronUp } from "@tabler/icons-react";
 import { useState } from "react";
 
 export default function PaginaCalculadora(){
